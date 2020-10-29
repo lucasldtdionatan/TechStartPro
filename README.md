@@ -16,7 +16,7 @@ Para a elaboração dos testes, precisa-se primeiramente criar um DataBase no my
 Para que seja feito a inserção dos dados do arquivo csv, primeiramente precisa-se fazer a seguinte request: POST => http://localhost:8080/api/feedCategoryData 
 Com isto, todos os dados do arquivo csv é inserido no banco de dados.
 
-Para mais detalhes de cada requisição disponível e como realiza-lá, basta apenas entrar no link do swagger http://localhost:8080/swagger-ui.html
+Para mais detalhes de cada requisição disponível e como realiza-lá, basta apenas entrar no link do swagger http://localhost:8080/swagger-ui.html (*OBS:* O projeto deve estar executando)
 
 #Ambiente utilizado para desenvolvimento do projeto
 
