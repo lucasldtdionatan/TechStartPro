@@ -20,7 +20,7 @@ Para mais detalhes de cada requisição disponível e como realiza-lá, basta ap
 
 #Ambiente utilizado para desenvolvimento do projeto
 
-Especificações do computador: Acer Aspire F15, Intel I5-7°geração 2.5Ghz, 8Gb RAM, HD 1t.
-Sistema operacional: Windows 10 pro 64bit.
-IDE: IntelliJ IDE Community Edition.
-Bibliotecas: Spring Boot, Swagger, JPA, MySQL Driver.
+- Especificações do computador: Acer Aspire F15, Intel I5-7°geração 2.5Ghz, 8Gb RAM, HD 1t.
+- Sistema operacional: Windows 10 pro 64bit.
+- IDE: IntelliJ IDE Community Edition.
+- Bibliotecas: Spring Boot, Swagger, JPA, MySQL Driver.
